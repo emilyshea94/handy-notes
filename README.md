@@ -6,7 +6,7 @@
 For this challange I took starter code and created a note taking app that allowes users to log notes. 
 The starter code included all the code I needed instead of the "server.js". I inserted the code for "server.js" and then connected it to the index.html so that it would be a functioning website for note taking.
 
-
+https://github.com/emilyshea94/handy-notes
 
 ## Usage
 This application allows users to take and log notes.
@@ -14,6 +14,7 @@ When the user first enters the site they are prompted to clikc "get started" the
 
 
 ##Insallation 
+posted on Heroku
 
 
 ## Credits
