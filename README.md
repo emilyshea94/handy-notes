@@ -5,6 +5,7 @@
 ## Description
 For this challange I took starter code and created a note taking app that allowes users to log notes. 
 The starter code included all the code I needed instead of the "server.js". I inserted the code for "server.js" and then connected it to the index.html so that it would be a functioning website for note taking.
+The challenge seemed pretty straight forward at first but I ran into several issues with cloning the code. I had to redo my repository at least two times because I wasnt able to commit my changes. So for the final Repository, I simply moved my code from my previous repo into this one. 
 
 https://github.com/emilyshea94/handy-notes
 
